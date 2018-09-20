@@ -266,7 +266,7 @@ body {
 #nice-landing-wrapper.content-container .content .section .copy-container #nice p {
   text-align: center;
   display: inline-block;
-  line-height: 75%;
+  line-height: 90%;
   transition: 400ms;
   /* Ensures the content is not revealed until the animation */
   overflow: show;
